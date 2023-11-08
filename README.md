@@ -380,3 +380,141 @@ _M0</td><td>UART3_RX_M1</td><td>PDM_SDI3_M2</td>
 | :--- | :--- |
 | 2 | On the software driver of YY3568, the vp0 and vp1 software interfaces can be adapted to HDMI, DSI0, DSI1 and EDP. You can choose two of these four display interfaces to adapt vp0 and vp1 |
 
+# Quick Start
+<!--
+- [Install usb driver *Rockchip usb driver*](https://wiki.youyeetoo.com/en/YY3568/unpack)
+- [AndroidTool *Upgrade firmware in loader mode* *Upgrade firmware in MaskRom mode*](https://wiki.youyeetoo.com/en/YY3568/unpack)
+- [Debug *ADB* *Uart debug* ](https://wiki.youyeetoo.com/en/YY3568/unpack)
+{.links-list}
+-->
+
+- [Release Images *How to burn image to onboard Emmc*](https://wiki.youyeetoo.com/en/YY3568/unpack)
+- [Debug *ADB* *Uart debug*](https://wiki.youyeetoo.com/en/YY3568/unpack)
+- [SD card *How to boot from SD card*](http://wiki.youyeetoo.com/en/YY3568/sdCardSystem)
+{.links-list}
+
+# Use the Android system
+
+- [Settings *language* *brightness* *sleep* *volume* *time* *shutdown restart* *static ip*](https://wiki.youyeetoo.com/en/YY3568/UsetheAndroidsystem)
+- [Storage device *U disk* *TF card* *SSD* *SATA*](https://wiki.youyeetoo.com/en/YY3568/UsetheAndroidsystem)
+- [Network *wired network* *wifi* *4G dial-up*](https://wiki.youyeetoo.com/en/YY3568/UsetheAndroidsystem)
+- [debug *ADB* *Uart debug*](https://wiki.youyeetoo.com/en/YY3568/UsetheAndroidsystem)
+- [Communication *Bluetooth* *Uart* *I2C* *CAN* *IR*](https://wiki.youyeetoo.com/en/YY3568/UsetheAndroidsystem)
+- [Audio *SPK (speaker)* *MIC (microphone)* *headphone jack* *audio switching*](https://wiki.youyeetoo.com/en/YY3568/UsetheAndroidsystem)
+- [Camera *usb camera* *mipi camera*](https://wiki.youyeetoo.com/en/YY3568/UsetheAndroidsystem)
+- [Display *HDMI* *DSI* *EDP* *Setup Screen*](https://wiki.youyeetoo.com/en/YY3568/UsetheAndroidsystem)
+- [Install app *install apk*](https://wiki.youyeetoo.com/en/YY3568/UsetheAndroidsystem)
+- [System information query *CPU information* *Memory information* *Disk partition information* *Kernel version* *Network equipment*](https://wiki.youyeetoo.com/en/YY3568/UsetheAndroidsystem)
+{.links-list}
+
+# Use the Debian system
+
+- [Settings *language* *brightness* *sleep* *volume* *time* *shutdown restart* *display* *static ip*](https://wiki.youyeetoo.com/en/YY3568/UsetheUbuntusystem)
+- [Storage device *U disk* *TF card* *SSD* *SATA*](https://wiki.youyeetoo.com/en/YY3568/UsetheUbuntusystem)
+- [Network *wired network* *wifi* *4G dial-up*](https://wiki.youyeetoo.com/en/YY3568/UsetheUbuntusystem)
+- [Debug *ADB* *Uart debug*](https://wiki.youyeetoo.com/en/YY3568/UsetheUbuntusystem)
+- [Communication *Bluetooth* *Uart* *I2C* *CAN* *IR*](https://wiki.youyeetoo.com/en/YY3568/UsetheUbuntusystem)
+- [Audio *SPK (speaker)* *MIC (microphone)* *headphone jack* *audio switching*](https://wiki.youyeetoo.com/en/YY3568/UsetheUbuntusystem)
+- [Camera *usb camera* *mipi camera*](https://wiki.youyeetoo.com/en/YY3568/UsetheUbuntusystem)
+- [VNC *Install VNC Remote Desktop* ](https://wiki.youyeetoo.com/en/YY3568/UsetheUbuntusystem)
+- [Build a file sharing server *samba* *nfs*](https://wiki.youyeetoo.com/en/YY3568/UsetheUbuntusystem)
+- [video decode *ffmpeg hardware decoding*](https://wiki.youyeetoo.com/en/YY3568/UsetheUbuntusystem)
+{.links-list}
+
+# Accessories
+
+- [Display screen *10.1 inch HDMI display screen* *7 inch DSI display screen* *11.6 inch EDP display screen*](https://wiki.youyeetoo.com/en/YY3568/Accessories)
+- [LIDAR *youyeetoo LIDAR*](https://wiki.youyeetoo.com/en/YY3568/Accessories)
+- [Speaker *youyeetoo speaker module*](https://wiki.youyeetoo.com/en/YY3568/Accessories)
+- [Communication module *LORA Communication module（serial port）*](https://wiki.youyeetoo.com/en/YY3568/Accessories)
+- [Camera *YY3568 camera* *usb camera*](https://wiki.youyeetoo.com/en/YY3568/Accessories)
+- [YYT-UART *UART expansion board*](https://wiki.youyeetoo.com/en/YY3568/Accessories)
+- [NFC *NFC2COM module*](https://wiki.youyeetoo.com/en/YY3568/Accessories)
+- [Shell *metal shell* *Acrylic shell*](https://wiki.youyeetoo.com/en/YY3568/Accessories)
+- [Power supply *12V 2A power adapter*](https://wiki.youyeetoo.com/en/YY3568/Accessories)
+- [Data cable *double male usb cable*](https://wiki.youyeetoo.com/en/YY3568/Accessories)
+- [4G module *EC20 4Gmodule*](https://wiki.youyeetoo.com/en/YY3568/Accessories)
+- [Adapter board *FPC to SATA adapter board*](https://wiki.youyeetoo.com/en/YY3568/Accessories)
+- [Battery *RTC battery*](https://wiki.youyeetoo.com/en/YY3568/Accessories)
+- [IR *Infrared remote control and IR module*](https://wiki.youyeetoo.com/en/YY3568/Accessories)
+- [Memory *TF card*](https://wiki.youyeetoo.com/en/YY3568/Accessories)
+- [Cooling module *Heat sink* *FAN*](https://wiki.youyeetoo.com/en/YY3568/Accessories)
+- [LED lights *LED*](https://wiki.youyeetoo.com/en/YY3568/Accessories)
+{.links-list}
+
+<!--# YYTOOLS
+
+- [I2C *Enable I2C*](https://wiki.youyeetoo.com/en/YY3568/YY3568-config)
+- [UART *Enable UART*](https://wiki.youyeetoo.com/en/YY3568/YY3568-config)
+- [CAN *Open CAN*](https://wiki.youyeetoo.com/en/YY3568/YY3568-config)
+- [Audio switching *HDMI and SPK audio switching*](https://wiki.youyeetoo.com/en/YY3568/YY3568-config)
+- [open DSI *DSI0* *DSI1*](https://wiki.youyeetoo.com/en/YY3568/YY3568-config)
+- [open EDP *EDP interface open*](https://wiki.youyeetoo.com/en/YY3568/YY3568-config)
+- [OTG switch *OTG switch HOST*](https://wiki.youyeetoo.com/en/YY3568/YY3568-config)
+- [The software restarts the USB bus *Controls the USB bus power off and restarts the power on* *Solve the USB bus stuck problem*](https://wiki.youyeetoo.com/en/YY3568/YY3568-config)
+{.links-list}-->
+
+<!-- # Build A Surce Code Development Environment
+
+## Build environment
+
+- [Download source code *Android source code* *Ubuntu source code*](https://wiki.youyeetoo.com/en/YY3568/Buildasourcecodedevelopmentenvironment)
+- [Build Ubuntu environment *Install virtual machine* *dockwe build Ubuntu*](https://wiki.youyeetoo.com/en/YY3568/Ubuntu)
+{.links-list}
+-->
+# Build system
+
+- [Compile Android source code *compile in docker*](https://wiki.youyeetoo.com/en/YY3568/buildsystem)
+- [Compile Debian source code *compile in docker*](https://wiki.youyeetoo.com/en/YY3568/buildsystem)
+{.links-list}
+
+# Debian Application Development Guide
+- [LED *Application call example*](https://wiki.youyeetoo.com/en/YY3568/LinuxLED)
+- [UART *Application call example*](https://wiki.youyeetoo.com/en/YY3568/LinuxUART)
+- [IIC *Application call example*](https://wiki.youyeetoo.com/en/YY3568/LinuxIIC)
+- [CAN *Application call example*](https://wiki.youyeetoo.com/en/YY3568/LinuxCAN)
+- [IR *Application call example*](https://wiki.youyeetoo.com/en/YY3568/LinuxIR)
+- [GPIO *Application call example*](https://wiki.youyeetoo.com/en/YY3568/LinuxGPIO)
+- [C static library download link and compilation method in the previous section](http://wiki.youyeetoo.cn/en/YY3568/LinuxLibraryUsage)
+- [MIC *Application call example*](https://wiki.youyeetoo.com/en/YY3568/LinuxMIC)
+- [MPP rk multimedia hardware codec *demo*](https://wiki.youyeetoo.com/en/YY3568/mpp)
+- [NPU *demo*](https://wiki.youyeetoo.com/en/YY3568/LinuxRKNPU)
+- [QT *demo*](https://wiki.youyeetoo.com/en/YY3568/QTdemo)
+- [ROS robot system *demo*](https://wiki.youyeetoo.com/en/YY3568/UbuntuApplicationDevelopmentGuide)
+- [OpenCV *Machine vision* *Call YY3568 CSI camera instance*](https://wiki.youyeetoo.com/en/YY3568/LinuxOPENCVtest)
+- [RTSP Live Video Streaming Development *demo*](https://wiki.youyeetoo.com/en/YY3568/UbuntuApplicationDevelopmentGuide)
+- [docker *docker demo* ](http://wiki.youyeetoo.com/en/YY3568/page/docker)
+{.links-list}
+
+# Android Application Development Guide
+
+- [Build a development environment *Install AndroidStudio*](https://wiki.youyeetoo.com/en/YY3568/AndroidApplicationDevelopmentGuide)
+- [Program running environment *Run on the emulator* *Run on the development board*](https://wiki.youyeetoo.com/en/YY3568/AndroidApplicationDevelopmentGuide)
+- [GPIO call instance *SHELL calls GPIO* *C calls GPIO* *JAVA calls GPIO*](https://wiki.youyeetoo.com/en/YY3568/AndroidApplicationDevelopmentGuide)
+- [Example of LED light control *SHELL control* *C control* *JAVA control LED*](https://wiki.youyeetoo.com/en/YY3568/AndroidApplicationDevelopmentGuide)
+- [Example of CAN call *Introduction to CAN communication* *SHELL calls CAN* *C calls CAN* *JAVA calls CAN*](https://wiki.youyeetoo.com/en/YY3568/AndroidApplicationDevelopmentGuide)
+- [Example of IIC call *Introduction to IIC communication* *The use and compilation of I2C-TOOLS* *SHELL calls IIC* *C calls IIC* *JAVA calls IIC*](https://wiki.youyeetoo.com/en/YY3568/AndroidApplicationDevelopmentGuide)
+- [Example of UART call *Introduction to UART communication* *SHELL calls UART* *C calls UART* *JAVA calls UART*](https://wiki.youyeetoo.com/en/YY3568/AndroidApplicationDevelopmentGuide)
+- [Example of IR call *Introduction to IR communication* *SHELL calls IR* *C calls IR* *JAVA calls IR*](https://wiki.youyeetoo.com/en/YY3568/AndroidApplicationDevelopmentGuide)
+- [Example of GPS call *Introduction to GPS communication* *SHELL calls GPS* *C calls GPS* *JAVA calls GPS*](https://wiki.youyeetoo.com/en/YY3568/AndroidApplicationDevelopmentGuide)
+- [Example of Camera call *Introduction to MIPI-CSI bus* *Introduction to common camera parameters* *Camera access experiment based on MIPI-CSI*](https://wiki.youyeetoo.com/en/YY3568/AndroidApplicationDevelopmentGuide)
+- [LiDAR Access Experiment *LiDAR third-party host computer installation* *LiDAR access experiment based on serial communication*](https://wiki.youyeetoo.com/en/YY3568/AndroidApplicationDevelopmentGuide)
+{.links-list}
+
+# OpenHarmoney Guide
+
+- [Program running environment *Run on the emulator* *Run on the development board*](https://wiki.youyeetoo.com/en/YY3568/AndroidApplicationDevelopmentGuide)
+- [Source code compilation *Environment build* *Compilation*](https://wiki.youyeetoo.com/en/YY3568/hmbuild)
+- [Net *Wired Net*](https://wiki.youyeetoo.com/en/YY3568/net#wired_net)
+{.links-list}
+
+# Ubuntu 20.04 Dev
+
+- [Build environment *Build Ubuntu image* *pack the RK image*](https://wiki.youyeetoo.com/en/YY3568/ubuntu)
+- [firmware](https://drive.google.com/drive/folders/1D90vztL9fRfWV7laV9mdcnZ5kNpxx_tl?usp=sharing)
+
+{.links-list}
+
+
+# FAQ
+- [FAQ](https://wiki.youyeetoo.com/en/YY3568/FAQ)
