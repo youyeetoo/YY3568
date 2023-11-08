@@ -14,3 +14,21 @@
   </ol>
 </div>
 <br>
+
+
+# Hardware Interface Definition
+## Machine interface definition
+![image](https://github.com/youyeetoo/YY3568/assets/150230106/203236d3-9c08-4555-a076-ed3f14c1b6f5)
+![image](https://github.com/youyeetoo/YY3568/assets/150230106/e62169af-5dd9-4f40-8093-dc107cde48c3)
+
+- [Specification *YY3568  development kit* *RK3568 module*](https://drive.google.com/drive/folders/10Swvzpfxq9yvEkk6DED6rVXyLRYziJap?usp=sharing)
+- [YY3568 Development Board *Appearance* *Dimensions*  *Interface* *Schematic Diagram*](https://wiki.youyeetoo.com/en/YY3568/DevelopmentBoardIntroduction)
+- [Quality inspection certificate *RoHS certificate* *CE certificate* *CE Test report* *FCC certificate* *FCC Test report* ](https://drive.google.com/drive/folders/147mRIOddlrTTtnrDvB14WZNLyrl9q0OS?usp=sharing )
+
+## Interface reuse and conflict table
+1. Power domain table
+When using pins, refer to the power domain table. `Avoid burning pins due to excessive voltage`.
+
+|  Die Power Domain   | PMUIO1 | PMUIO2  | VCCIO1 | VCCIO2 | VCCIO3 | VCCIO4 | VCCIO5 | VCCIO6 | VCCIO7 |
+| :---  | :---  | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Supply Power Voltage1 | 3.3V | 3.3V | 3.3V |1.8V | 3.3V | 1.8V | 3.3V | 1.8V | 3.3V |
